@@ -6,6 +6,6 @@
     "showFPS"       : false,
     "jsList"        : [
                       "src/loadassets.js",
-                      "src/gamescript.js"
+                      "src/gamescript_new.js"
                     ]
 }
